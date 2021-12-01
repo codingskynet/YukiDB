@@ -1,5 +1,6 @@
 [workspace]
 members = [
+    "yukidb-core",
     "yukidb-server",
     "yukidb-client",
 ]
